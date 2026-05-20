@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lvp_red">#CC1414</color>
+    <color name="lvp_red_dark">#A50F0F</color>
+    <color name="lvp_blue">#1B3A72</color>
+    <color name="lvp_dark">#111111</color>
+    <color name="lvp_surface">#F8F8F8</color>
+    <color name="lvp_gray200">#E2E2E2</color>
+    <color name="lvp_gray500">#777777</color>
+    <color name="white">#FFFFFF</color>
+</resources>
